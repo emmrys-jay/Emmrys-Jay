@@ -8,10 +8,10 @@ I'm a Golang Developer. I'm passionate about sharing knowledge, web development,
 
 - 😊 Pronouns: He/him
 - 💡 Fun Fact: I'm currently learning at [Altschool Africa](https://altschoolafrica.com/)
-- 🌱 I’m currently learning and actively working on projects with Golang.
-- 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
+- 🌱 I’m learning and actively working on projects with Golang.
+- 😊 I’m interested in open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Golang Developer (Intern or Junior level).
-- 📫 You can [view my portfolio/resume](https://jonathan-emmanuel-portfolio.netlify.app) and contact me by emailing jonathanemma121@gamil.com
+- 📫 You can [view my portfolio/resume](https://jonathan-emmanuel-portfolio.netlify.app/resume) and contact me by emailing jonathanemma121@gamil.com
 
 ---
 
