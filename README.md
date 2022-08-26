@@ -7,7 +7,7 @@ I'm a Golang Developer. I'm passionate about sharing knowledge, web development,
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun Fact: I'm currently learning at [Altschool Africa](https://altschoolafrica.com/)
+- 💡 Fun Fact: I'm majorly a self-taught developer, i started structured learning at [Altschool Africa](https://altschoolafrica.com/) recently
 - 🌱 I’m learning and actively working on projects with Golang.
 - 😊 I’m interested in open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Golang Developer (Intern or Junior level).
