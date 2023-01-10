@@ -11,7 +11,7 @@ I'm a Golang Developer. I'm passionate about sharing knowledge, web development,
 - 🌱 I’m learning and actively working on projects with Golang.
 - 😊 I’m interested in open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Golang Developer (Intern or Junior level).
-- 📫 You can contact me by emailing jonathanemma121@gamil.com
+- 📫 You can view my [portfolio](https://jonathan-emmanuel-portfolio.netlify.app) and contact me by emailing jonathanemma121@gamil.com
 
 ---
 
