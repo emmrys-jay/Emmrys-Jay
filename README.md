@@ -9,8 +9,8 @@ I'm a Golang Developer. I'm passionate about sharing knowledge, web development,
 - 😊 Pronouns: He/him
 - 💡 Fun Fact: I'm a self-taught developer.
 - 🌱 I’m learning and actively working on projects with Golang.
-- 😊 I’m interested in open source projects, internships, and entry-level opportunities.
-- 💼 Job interests: Golang Developer (Intern or Junior level).
+- 😊 I’m interested in open source projects, and mid-level opportunities.
+- 💼 Job interests: Golang Developer (Mid-level).
 - 📫 You can view my [portfolio](https://jonathan-emmanuel-portfolio.netlify.app) and contact me by emailing jonathanemma121@gamil.com
 
 ---
